@@ -1,0 +1,32 @@
+{
+  "name": "redeskypunicoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.6.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "jimp": "^0.9.3",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "mysql2": "^2.1.0",
+    "novelcovid": "^1.2.7",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "sequelize": "^5.21.5",
+    "shelljs": "^0.8.4",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^2.1.1",
+    "ytdl-core-discord": "^1.2.0"
+  }
+}
